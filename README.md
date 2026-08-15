@@ -514,24 +514,6 @@ The following evaluation uses the **Meridian Components Pvt. Ltd. — Supply Cha
 
 ---
 
-# 📸 Screenshots
-
-
-
-```markdown
-![Document Upload](assets/upload.png)
-
-![Indexing Success](assets/indexing_success.png)
-
-![Answer With Sources](assets/answer_with_sources.png)
-
-![Trap Question Refusal](assets/trap_question_refusal.png)
-```
-
-The screenshots should clearly demonstrate that the application works and that answers include document/page references.
-
----
-
 # ⚠️ Limitations and Lessons Learned
 
 ### 1. The supplied PDF is not a conventional financial statement
@@ -570,46 +552,7 @@ The most important lesson from the evaluation is that a RAG system should not ma
 
 **Demo link:** `[Insert Loom / Google Drive / YouTube link]`
 
-### Recommended 3-minute demonstration
-
-**0:00–0:30 — Upload**
-
-Show the Meridian Components PDF being uploaded.
-
-**0:30–1:00 — Index**
-
-Click **Index Documents** and show the successful indexing message.
-
-**1:00–2:20 — Questions**
-
-Ask several questions that are answerable from the document, for example:
-
-```text
-What was the total procurement spend in Q1?
-```
-
-```text
-What were the major supply-chain risks carried into Q2?
-```
-
-```text
-How many line stoppages occurred and what caused them?
-```
-
-Show the answers and source page references.
-
-**2:20–3:00 — Trap Question**
-
-Ask:
-
-```text
-What is the CEO's personal shareholding in 2015?
-```
-
-Show that the system refuses to invent an answer.
-
-
----
+___
 
 # 🤝 Contributing
 
