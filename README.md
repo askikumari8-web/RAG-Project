@@ -550,7 +550,7 @@ The most important lesson from the evaluation is that a RAG system should not ma
 
 # 🎥 Demo Video
 
-**Demo link:** `[Insert Loom / Google Drive / YouTube link]`
+**Demo link:** `[https://drive.google.com/file/d/1ukEOSTACmsBNEQDPDTTM_-GGqDAubG8O/view?usp=drive_link]`
 
 ___
 
